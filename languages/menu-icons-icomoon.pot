@@ -1,0 +1,1039 @@
+# Copyright (C) 2014 Menu Icons: Icomoon
+# This file is distributed under the same license as the Menu Icons: Icomoon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Menu Icons: Icomoon 0.1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/menu-icons-icomoon\n"
+"POT-Creation-Date: 2014-06-11 09:48:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: icomoon.php:69
+msgid "Actions"
+msgstr ""
+
+#: icomoon.php:71
+msgid "Add"
+msgstr ""
+
+#: icomoon.php:72
+msgid "Remove"
+msgstr ""
+
+#: icomoon.php:73 icomoon.php:74 icomoon.php:75
+msgid "Check"
+msgstr ""
+
+#: icomoon.php:76 icomoon.php:77
+msgid "Close"
+msgstr ""
+
+#: icomoon.php:78 icomoon.php:79 icomoon.php:80 icomoon.php:81
+msgid "Download"
+msgstr ""
+
+#: icomoon.php:82
+msgid "Cloud Download"
+msgstr ""
+
+#: icomoon.php:83 icomoon.php:84 icomoon.php:85 icomoon.php:86
+msgid "Upload"
+msgstr ""
+
+#: icomoon.php:87
+msgid "Cloud Upload"
+msgstr ""
+
+#: icomoon.php:88 icomoon.php:90
+msgid "Contract"
+msgstr ""
+
+#: icomoon.php:89 icomoon.php:91
+msgid "Expand"
+msgstr ""
+
+#: icomoon.php:92
+msgid "Enter"
+msgstr ""
+
+#: icomoon.php:93
+msgid "Exit"
+msgstr ""
+
+#: icomoon.php:94 icomoon.php:95
+msgid "Filter"
+msgstr ""
+
+#: icomoon.php:96 icomoon.php:97
+msgid "Lock"
+msgstr ""
+
+#: icomoon.php:98
+msgid "Unlock"
+msgstr ""
+
+#: icomoon.php:99
+msgid "New Tab"
+msgstr ""
+
+#: icomoon.php:100
+msgid "Block"
+msgstr ""
+
+#: icomoon.php:101
+msgid "Back"
+msgstr ""
+
+#: icomoon.php:102
+msgid "Forward"
+msgstr ""
+
+#: icomoon.php:103
+msgid "Spam"
+msgstr ""
+
+#: icomoon.php:104
+msgid "Point Up"
+msgstr ""
+
+#: icomoon.php:105
+msgid "Point Down"
+msgstr ""
+
+#: icomoon.php:106
+msgid "Point Left"
+msgstr ""
+
+#: icomoon.php:107
+msgid "Point Right"
+msgstr ""
+
+#: icomoon.php:108
+msgid "Search"
+msgstr ""
+
+#: icomoon.php:109
+msgid "Zoom In"
+msgstr ""
+
+#: icomoon.php:110
+msgid "Zoom Out"
+msgstr ""
+
+#: icomoon.php:111
+msgid "Sign Up"
+msgstr ""
+
+#: icomoon.php:112
+msgid "Thumbs Up"
+msgstr ""
+
+#: icomoon.php:113
+msgid "Thumbs Down"
+msgstr ""
+
+#: icomoon.php:114
+msgid "Share"
+msgstr ""
+
+#: icomoon.php:119
+msgid "Arrows"
+msgstr ""
+
+#: icomoon.php:121 icomoon.php:129 icomoon.php:137
+msgid "Up"
+msgstr ""
+
+#: icomoon.php:122 icomoon.php:130 icomoon.php:138
+msgid "Down"
+msgstr ""
+
+#: icomoon.php:123 icomoon.php:131 icomoon.php:139
+msgid "Left"
+msgstr ""
+
+#: icomoon.php:124 icomoon.php:132 icomoon.php:140
+msgid "Right"
+msgstr ""
+
+#: icomoon.php:125 icomoon.php:133 icomoon.php:141
+msgid "Up Left"
+msgstr ""
+
+#: icomoon.php:126 icomoon.php:134 icomoon.php:142
+msgid "Up Right"
+msgstr ""
+
+#: icomoon.php:127 icomoon.php:135 icomoon.php:143
+msgid "Down Left"
+msgstr ""
+
+#: icomoon.php:128 icomoon.php:136 icomoon.php:144
+msgid "Down Right"
+msgstr ""
+
+#: icomoon.php:149
+msgid "Brands"
+msgstr ""
+
+#: icomoon.php:155
+msgid "CSS 3"
+msgstr ""
+
+#: icomoon.php:165
+msgid "Finder"
+msgstr ""
+
+#: icomoon.php:186 icomoon.php:187
+msgid "HMTL 5"
+msgstr ""
+
+#: icomoon.php:233
+msgid "Browsers"
+msgstr ""
+
+#: icomoon.php:244
+msgid "Devices"
+msgstr ""
+
+#: icomoon.php:246 icomoon.php:247
+msgid "Alarm"
+msgstr ""
+
+#: icomoon.php:248
+msgid "Bell"
+msgstr ""
+
+#: icomoon.php:249
+msgid "Binoculars"
+msgstr ""
+
+#: icomoon.php:250
+msgid "Bullhorn"
+msgstr ""
+
+#: icomoon.php:251 icomoon.php:252
+msgid "Camera"
+msgstr ""
+
+#: icomoon.php:253 icomoon.php:254
+msgid "Clock"
+msgstr ""
+
+#: icomoon.php:255
+msgid "Compass"
+msgstr ""
+
+#: icomoon.php:256
+msgid "Disk"
+msgstr ""
+
+#: icomoon.php:257
+msgid "HDD"
+msgstr ""
+
+#: icomoon.php:258
+msgid "Headphones"
+msgstr ""
+
+#: icomoon.php:259
+msgid "Keyboard"
+msgstr ""
+
+#: icomoon.php:260
+msgid "Laptop"
+msgstr ""
+
+#: icomoon.php:261 icomoon.php:262
+msgid "Mobile Phone"
+msgstr ""
+
+#: icomoon.php:263 icomoon.php:264
+msgid "Phone"
+msgstr ""
+
+#: icomoon.php:265
+msgid "Printer"
+msgstr ""
+
+#: icomoon.php:266
+msgid "Screen"
+msgstr ""
+
+#: icomoon.php:267
+msgid "Stopwatch"
+msgstr ""
+
+#: icomoon.php:268
+msgid "Tablet"
+msgstr ""
+
+#: icomoon.php:269
+msgid "TV"
+msgstr ""
+
+#: icomoon.php:274
+msgid "Editor"
+msgstr ""
+
+#: icomoon.php:276
+msgid "Attachment"
+msgstr ""
+
+#: icomoon.php:277 icomoon.php:278 icomoon.php:279
+msgid "Copy"
+msgstr ""
+
+#: icomoon.php:280
+msgid "Cut"
+msgstr ""
+
+#: icomoon.php:281 icomoon.php:282 icomoon.php:283
+msgid "Paste"
+msgstr ""
+
+#: icomoon.php:284
+msgid "Font"
+msgstr ""
+
+#: icomoon.php:285
+msgid "Bold"
+msgstr ""
+
+#: icomoon.php:286
+msgid "Italic"
+msgstr ""
+
+#: icomoon.php:287
+msgid "Underline"
+msgstr ""
+
+#: icomoon.php:288
+msgid "Strikethrough"
+msgstr ""
+
+#: icomoon.php:289
+msgid "Code"
+msgstr ""
+
+#: icomoon.php:290
+msgid "Embed"
+msgstr ""
+
+#: icomoon.php:291 icomoon.php:295
+msgid "Align Left"
+msgstr ""
+
+#: icomoon.php:292 icomoon.php:296
+msgid "Align Center"
+msgstr ""
+
+#: icomoon.php:293 icomoon.php:297
+msgid "Align Right"
+msgstr ""
+
+#: icomoon.php:294 icomoon.php:298
+msgid "Justify"
+msgstr ""
+
+#: icomoon.php:299 icomoon.php:301
+msgid "Undo"
+msgstr ""
+
+#: icomoon.php:300 icomoon.php:302
+msgid "Redo"
+msgstr ""
+
+#: icomoon.php:303
+msgid "Left Qoutes"
+msgstr ""
+
+#: icomoon.php:304 icomoon.php:305
+msgid "List"
+msgstr ""
+
+#: icomoon.php:306
+msgid "Ordered List"
+msgstr ""
+
+#: icomoon.php:307
+msgid "Link"
+msgstr ""
+
+#: icomoon.php:308
+msgid "Crop"
+msgstr ""
+
+#: icomoon.php:309
+msgid "Increase Indent"
+msgstr ""
+
+#: icomoon.php:310
+msgid "Decrease Indent"
+msgstr ""
+
+#: icomoon.php:311
+msgid "Pilcrow"
+msgstr ""
+
+#: icomoon.php:312
+msgid "Left to Right"
+msgstr ""
+
+#: icomoon.php:313
+msgid "Right to Left"
+msgstr ""
+
+#: icomoon.php:314
+msgid "Omega"
+msgstr ""
+
+#: icomoon.php:315
+msgid "Sigma"
+msgstr ""
+
+#: icomoon.php:316 icomoon.php:317
+msgid "Table"
+msgstr ""
+
+#: icomoon.php:318
+msgid "Insert Template"
+msgstr ""
+
+#: icomoon.php:323
+msgid "File Types"
+msgstr ""
+
+#: icomoon.php:325 icomoon.php:326 icomoon.php:327 icomoon.php:328
+msgid "File"
+msgstr ""
+
+#: icomoon.php:329
+msgid "Film"
+msgstr ""
+
+#: icomoon.php:330 icomoon.php:331
+msgid "Folder"
+msgstr ""
+
+#: icomoon.php:332 icomoon.php:333
+msgid "Image"
+msgstr ""
+
+#: icomoon.php:334
+msgid "Music"
+msgstr ""
+
+#: icomoon.php:335
+msgid "PDF"
+msgstr ""
+
+#: icomoon.php:341
+msgid "CSS"
+msgstr ""
+
+#: icomoon.php:342
+msgid "XML"
+msgstr ""
+
+#: icomoon.php:348
+msgid "Form"
+msgstr ""
+
+#: icomoon.php:350 icomoon.php:352
+msgid "Checked"
+msgstr ""
+
+#: icomoon.php:351 icomoon.php:353
+msgid "Unchecked"
+msgstr ""
+
+#: icomoon.php:358
+msgid "Games"
+msgstr ""
+
+#: icomoon.php:360
+msgid "Dice"
+msgstr ""
+
+#: icomoon.php:361
+msgid "Pacman"
+msgstr ""
+
+#: icomoon.php:362
+msgid "Pawn"
+msgstr ""
+
+#: icomoon.php:363
+msgid "Spades"
+msgstr ""
+
+#: icomoon.php:364
+msgid "Diamonds"
+msgstr ""
+
+#: icomoon.php:365
+msgid "Clubs"
+msgstr ""
+
+#: icomoon.php:366 icomoon.php:367 icomoon.php:368
+msgid "Heart"
+msgstr ""
+
+#: icomoon.php:373
+msgid "Media Player"
+msgstr ""
+
+#: icomoon.php:375
+msgid "First"
+msgstr ""
+
+#: icomoon.php:376
+msgid "Previous"
+msgstr ""
+
+#: icomoon.php:377 icomoon.php:385
+msgid "Fast Backward"
+msgstr ""
+
+#: icomoon.php:378 icomoon.php:386 icomoon.php:389
+msgid "Play"
+msgstr ""
+
+#: icomoon.php:379 icomoon.php:387
+msgid "Pause"
+msgstr ""
+
+#: icomoon.php:380 icomoon.php:388
+msgid "Stop"
+msgstr ""
+
+#: icomoon.php:381 icomoon.php:384
+msgid "Fast Forward"
+msgstr ""
+
+#: icomoon.php:382
+msgid "Next"
+msgstr ""
+
+#: icomoon.php:383
+msgid "Last"
+msgstr ""
+
+#: icomoon.php:390
+msgid "Eject"
+msgstr ""
+
+#: icomoon.php:391
+msgid "Vol. High"
+msgstr ""
+
+#: icomoon.php:392
+msgid "Vol. Medium"
+msgstr ""
+
+#: icomoon.php:393
+msgid "Vol. Low"
+msgstr ""
+
+#: icomoon.php:394
+msgid "Vol. Up"
+msgstr ""
+
+#: icomoon.php:395
+msgid "Vol. Down"
+msgstr ""
+
+#: icomoon.php:396 icomoon.php:397
+msgid "Mute"
+msgstr ""
+
+#: icomoon.php:398 icomoon.php:399
+msgid "Loop"
+msgstr ""
+
+#: icomoon.php:400
+msgid "Shuffle"
+msgstr ""
+
+#: icomoon.php:405
+msgid "Misc."
+msgstr ""
+
+#: icomoon.php:407
+msgid "Accessibility"
+msgstr ""
+
+#: icomoon.php:408
+msgid "Address Book"
+msgstr ""
+
+#: icomoon.php:409
+msgid "Aid"
+msgstr ""
+
+#: icomoon.php:410
+msgid "Airplane"
+msgstr ""
+
+#: icomoon.php:411
+msgid "Barcode"
+msgstr ""
+
+#: icomoon.php:412 icomoon.php:413
+msgid "Bars"
+msgstr ""
+
+#: icomoon.php:414
+msgid "Book"
+msgstr ""
+
+#: icomoon.php:415
+msgid "Books"
+msgstr ""
+
+#: icomoon.php:416
+msgid "Bookmark"
+msgstr ""
+
+#: icomoon.php:417
+msgid "Bookmarks"
+msgstr ""
+
+#: icomoon.php:418
+msgid "Briefcase"
+msgstr ""
+
+#: icomoon.php:419
+msgid "Brightness"
+msgstr ""
+
+#: icomoon.php:420
+msgid "Brightness/Contrast"
+msgstr ""
+
+#: icomoon.php:421 icomoon.php:422
+msgid "Bubble"
+msgstr ""
+
+#: icomoon.php:423 icomoon.php:424 icomoon.php:425 icomoon.php:426
+msgid "Bubbles"
+msgstr ""
+
+#: icomoon.php:427
+msgid "Bug"
+msgstr ""
+
+#: icomoon.php:428
+msgid "Busy"
+msgstr ""
+
+#: icomoon.php:429
+msgid "Cabinet"
+msgstr ""
+
+#: icomoon.php:430
+msgid "Calculate"
+msgstr ""
+
+#: icomoon.php:431 icomoon.php:432
+msgid "Calendar"
+msgstr ""
+
+#: icomoon.php:433 icomoon.php:434 icomoon.php:435
+msgid "Cart"
+msgstr ""
+
+#: icomoon.php:436 icomoon.php:437
+msgid "Cog"
+msgstr ""
+
+#: icomoon.php:438
+msgid "Cogs"
+msgstr ""
+
+#: icomoon.php:439
+msgid "Coin"
+msgstr ""
+
+#: icomoon.php:440
+msgid "Connection"
+msgstr ""
+
+#: icomoon.php:441
+msgid "Contrast"
+msgstr ""
+
+#: icomoon.php:442
+msgid "Credit"
+msgstr ""
+
+#: icomoon.php:443 icomoon.php:444 icomoon.php:445
+msgid "Drawer"
+msgstr ""
+
+#: icomoon.php:446
+msgid "Droplet"
+msgstr ""
+
+#: icomoon.php:447
+msgid "Earth"
+msgstr ""
+
+#: icomoon.php:448
+msgid "Envelope"
+msgstr ""
+
+#: icomoon.php:449
+msgid "Equalizer"
+msgstr ""
+
+#: icomoon.php:450 icomoon.php:451
+msgid "Eye"
+msgstr ""
+
+#: icomoon.php:452
+msgid "Fire"
+msgstr ""
+
+#: icomoon.php:453
+msgid "Flag"
+msgstr ""
+
+#: icomoon.php:454
+msgid "Food"
+msgstr ""
+
+#: icomoon.php:455
+msgid "Gift"
+msgstr ""
+
+#: icomoon.php:456
+msgid "Glass"
+msgstr ""
+
+#: icomoon.php:457
+msgid "Globe"
+msgstr ""
+
+#: icomoon.php:458 icomoon.php:459
+msgid "Hammer"
+msgstr ""
+
+#: icomoon.php:460
+msgid "History"
+msgstr ""
+
+#: icomoon.php:461 icomoon.php:462
+msgid "Info"
+msgstr ""
+
+#: icomoon.php:463 icomoon.php:464
+msgid "Key"
+msgstr ""
+
+#: icomoon.php:465
+msgid "Leaf"
+msgstr ""
+
+#: icomoon.php:466
+msgid "Lightning"
+msgstr ""
+
+#: icomoon.php:467
+msgid "Magnet"
+msgstr ""
+
+#: icomoon.php:468 icomoon.php:469 icomoon.php:470 icomoon.php:471
+msgid "Mail"
+msgstr ""
+
+#: icomoon.php:472 icomoon.php:473
+msgid "Map"
+msgstr ""
+
+#: icomoon.php:474 icomoon.php:475
+msgid "Menu"
+msgstr ""
+
+#: icomoon.php:476 icomoon.php:477
+msgid "Meter"
+msgstr ""
+
+#: icomoon.php:478
+msgid "Mug"
+msgstr ""
+
+#: icomoon.php:479
+msgid "Newspaper"
+msgstr ""
+
+#: icomoon.php:480
+msgid "Notebook"
+msgstr ""
+
+#: icomoon.php:481
+msgid "Notification"
+msgstr ""
+
+#: icomoon.php:482
+msgid "Paint Format"
+msgstr ""
+
+#: icomoon.php:483
+msgid "Pen"
+msgstr ""
+
+#: icomoon.php:484 icomoon.php:485
+msgid "Pencil"
+msgstr ""
+
+#: icomoon.php:486
+msgid "Pie"
+msgstr ""
+
+#: icomoon.php:487
+msgid "Podcast"
+msgstr ""
+
+#: icomoon.php:488
+msgid "Power Cord"
+msgstr ""
+
+#: icomoon.php:489
+msgid "Profile"
+msgstr ""
+
+#: icomoon.php:490
+msgid "Pushpin"
+msgstr ""
+
+#: icomoon.php:491
+msgid "QR Code"
+msgstr ""
+
+#: icomoon.php:492
+msgid "Question"
+msgstr ""
+
+#: icomoon.php:493
+msgid "Quill"
+msgstr ""
+
+#: icomoon.php:494
+msgid "Rocket"
+msgstr ""
+
+#: icomoon.php:495
+msgid "Settings"
+msgstr ""
+
+#: icomoon.php:496
+msgid "Shield"
+msgstr ""
+
+#: icomoon.php:497 icomoon.php:498 icomoon.php:499 icomoon.php:500
+#: icomoon.php:501 icomoon.php:502
+msgid "Spinner"
+msgstr ""
+
+#: icomoon.php:503
+msgid "Stack"
+msgstr ""
+
+#: icomoon.php:504 icomoon.php:505 icomoon.php:506
+msgid "Star"
+msgstr ""
+
+#: icomoon.php:507
+msgid "Stats"
+msgstr ""
+
+#: icomoon.php:508
+msgid "Switch"
+msgstr ""
+
+#: icomoon.php:509
+msgid "Support"
+msgstr ""
+
+#: icomoon.php:510
+msgid "Tag"
+msgstr ""
+
+#: icomoon.php:511
+msgid "Tags"
+msgstr ""
+
+#: icomoon.php:512
+msgid "Target"
+msgstr ""
+
+#: icomoon.php:513
+msgid "Ticket"
+msgstr ""
+
+#: icomoon.php:514
+msgid "Tree"
+msgstr ""
+
+#: icomoon.php:515
+msgid "Trophy"
+msgstr ""
+
+#: icomoon.php:516
+msgid "Truck"
+msgstr ""
+
+#: icomoon.php:517 icomoon.php:518 icomoon.php:519 icomoon.php:520
+msgid "User"
+msgstr ""
+
+#: icomoon.php:521 icomoon.php:522
+msgid "Users"
+msgstr ""
+
+#: icomoon.php:523
+msgid "Wand"
+msgstr ""
+
+#: icomoon.php:524
+msgid "Warning"
+msgstr ""
+
+#: icomoon.php:525
+msgid "Wrench"
+msgstr ""
+
+#: icomoon.php:530
+msgid "Places"
+msgstr ""
+
+#: icomoon.php:532
+msgid "Blog"
+msgstr ""
+
+#: icomoon.php:533 icomoon.php:534
+msgid "Cloud"
+msgstr ""
+
+#: icomoon.php:535
+msgid "Dashboard"
+msgstr ""
+
+#: icomoon.php:536 icomoon.php:537 icomoon.php:538 icomoon.php:539
+msgid "Feed"
+msgstr ""
+
+#: icomoon.php:540 icomoon.php:541 icomoon.php:542
+msgid "Home"
+msgstr ""
+
+#: icomoon.php:543
+msgid "Office"
+msgstr ""
+
+#: icomoon.php:544
+msgid "Lab"
+msgstr ""
+
+#: icomoon.php:545
+msgid "Library"
+msgstr ""
+
+#: icomoon.php:546 icomoon.php:547
+msgid "Location"
+msgstr ""
+
+#: icomoon.php:548 icomoon.php:549
+msgid "Trash"
+msgstr ""
+
+#: icomoon.php:550
+msgid "Road"
+msgstr ""
+
+#: icomoon.php:555
+msgid "Smileys"
+msgstr ""
+
+#: icomoon.php:557 icomoon.php:570
+msgid "Angry"
+msgstr ""
+
+#: icomoon.php:558 icomoon.php:571
+msgid "Cool"
+msgstr ""
+
+#: icomoon.php:559 icomoon.php:572
+msgid "Confused"
+msgstr ""
+
+#: icomoon.php:560 icomoon.php:573
+msgid "Evil"
+msgstr ""
+
+#: icomoon.php:561 icomoon.php:574
+msgid "Happy"
+msgstr ""
+
+#: icomoon.php:562 icomoon.php:575
+msgid "Grin"
+msgstr ""
+
+#: icomoon.php:563 icomoon.php:576
+msgid "Neutral"
+msgstr ""
+
+#: icomoon.php:564 icomoon.php:577
+msgid "Sad"
+msgstr ""
+
+#: icomoon.php:565 icomoon.php:578
+msgid "Shocked"
+msgstr ""
+
+#: icomoon.php:566 icomoon.php:579
+msgid "Smiley"
+msgstr ""
+
+#: icomoon.php:567 icomoon.php:580
+msgid "Tongue"
+msgstr ""
+
+#: icomoon.php:568 icomoon.php:581
+msgid "Wink"
+msgstr ""
+
+#: icomoon.php:569 icomoon.php:582
+msgid "Wondering"
+msgstr ""
+
+#: menu-icons-icomoon.php:57
+msgid ""
+"Please install and activate <a href=\"%s\">Menu Icons</a> to use Icomoon."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Menu Icons: Icomoon"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://github.com/kucrut/wp-menu-icons-icomoon"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "IcoMoon package for Menu Icons"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Dzikri Aziz"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://kucrut.org/"
+msgstr ""
