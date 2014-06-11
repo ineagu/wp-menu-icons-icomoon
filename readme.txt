@@ -8,12 +8,12 @@ Stable tag: 0.1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-IcoMoon extension for Menu Icons
+IcoMoon package for Menu Icons
 
 
 == Description ==
 
-[IcoMoon](http://icomoon.io/) extension for [Menu Icons](http://wordpress.org/plugins/menu-icons/).
+[IcoMoon](http://icomoon.io/) package for [Menu Icons](http://wordpress.org/plugins/menu-icons/).
 
 = Usage =
 1. After the plugin is activated, go to *Appearance* > *Menus* to edit your menus
