@@ -3,17 +3,17 @@ Contributors: kucrut
 Donate Link: http://kucrut.org/#coffee
 Tags: menu, nav-menu, icons, navigation
 Requires at least: 3.8
-Tested up to: 3.9
-Stable tag: 0.1.0
+Tested up to: 3.9.1
+Stable tag: 0.1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-IcoMoon extension for Menu Icons
+IcoMoon package for Menu Icons
 
 
 == Description ==
 
-[IcoMoon](http://icomoon.io/) extension for [Menu Icons](http://wordpress.org/plugins/menu-icons/).
+[IcoMoon](http://icomoon.io/) package for [Menu Icons](http://wordpress.org/plugins/menu-icons/).
 
 = Usage =
 1. After the plugin is activated, go to *Appearance* > *Menus* to edit your menus
@@ -33,6 +33,8 @@ IcoMoon extension for Menu Icons
 
 
 == Other Notes ==
+The icon set included in this plugin is the [free version](http://icomoon.io/#icons), released under GPL.
+
 Originally, the icon classes are prefixed with `icon-`. I think it's too common so I've changed it to `icomoon-` to avoid conflicts with other elements.
 
 
