@@ -3,8 +3,7 @@
 /**
  * Menu Icons: IcoMoon
  *
- * @package Menu_Icons
- * @subpackage IcoMoon
+ * @package Menu_Icons_Icomoon
  * @version 0.1.0
  * @author Dzikri Aziz <kvcrvt@gmail.com>
  *
