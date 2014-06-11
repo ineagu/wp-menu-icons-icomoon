@@ -6,8 +6,8 @@ IcoMoon package for Menu Icons
 **Contributors:** [kucrut](http://profiles.wordpress.org/kucrut)  
 **Tags:** [menu](http://wordpress.org/plugins/tags/menu), [nav-menu](http://wordpress.org/plugins/tags/nav-menu), [icons](http://wordpress.org/plugins/tags/icons), [navigation](http://wordpress.org/plugins/tags/navigation)  
 **Requires at least:** 3.8  
-**Tested up to:** 3.9  
-**Stable tag:** 0.1.0  
+**Tested up to:** 3.9.1
+**Stable tag:** 0.1.1  
 **License:** [GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)  
 **Donate Link:** http://kucrut.org/#coffee  
 
