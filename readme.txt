@@ -33,6 +33,8 @@ IcoMoon package for Menu Icons
 
 
 == Other Notes ==
+The icon set included in this plugin is the [free version](http://icomoon.io/#icons), released under GPL.
+
 Originally, the icon classes are prefixed with `icon-`. I think it's too common so I've changed it to `icomoon-` to avoid conflicts with other elements.
 
 
