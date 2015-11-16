@@ -2,9 +2,9 @@
 Contributors: kucrut
 Donate Link: http://kucrut.org/#coffee
 Tags: menu, nav-menu, icons, navigation
-Requires at least: 3.8
-Tested up to: 3.9.1
-Stable tag: 0.1.1
+Requires at least: 4.3
+Tested up to: 4.4
+Stable tag: 0.2.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,5 +39,8 @@ Originally, the icon classes are prefixed with `icon-`. I think it's too common 
 
 
 == Changelog ==
+= 0.2.0 =
+* New icon type class, inherits from Icon Picker
+
 = 0.1.0 =
 * Initial release

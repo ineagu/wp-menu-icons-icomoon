@@ -3,18 +3,17 @@
 
 IcoMoon package for Menu Icons
 
-**Contributors:** [kucrut](http://profiles.wordpress.org/kucrut)  
-**Tags:** [menu](http://wordpress.org/plugins/tags/menu), [nav-menu](http://wordpress.org/plugins/tags/nav-menu), [icons](http://wordpress.org/plugins/tags/icons), [navigation](http://wordpress.org/plugins/tags/navigation)  
-**Requires at least:** 3.8  
-**Tested up to:** 3.9.1
-**Stable tag:** 0.1.1  
+**Contributors:** [kucrut](https://profiles.wordpress.org/kucrut)  
+**Tags:** [menu](https://wordpress.org/plugins/tags/menu), [nav-menu](https://wordpress.org/plugins/tags/nav-menu), [icons](https://wordpress.org/plugins/tags/icons), [navigation](https://wordpress.org/plugins/tags/navigation)  
+**Requires at least:** 4.3  
+**Tested up to:** 4.4  
+**Stable tag:** 0.2.0  
 **License:** [GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)  
 **Donate Link:** http://kucrut.org/#coffee  
 
 ## Description ##
 
 [IcoMoon](http://icomoon.io/) package for [Menu Icons](http://wordpress.org/plugins/menu-icons/).
-
 ### Usage ###
 1. After the plugin is activated, go to *Appearance* > *Menus* to edit your menus
 1. Enable *IcoMoon* in "Menu Icons Settings" meta box and click the save button
@@ -41,6 +40,9 @@ The icon set included in this plugin is the [free version](http://icomoon.io/#ic
 Originally, the icon classes are prefixed with `icon-`. I think it's too common so I've changed it to `icomoon-` to avoid conflicts with other elements.
 
 ## Changelog ##
+
+### 0.2.0 ###
+* New icon type class, inherits from Icon Picker
 
 ### 0.1.0 ###
 * Initial release
