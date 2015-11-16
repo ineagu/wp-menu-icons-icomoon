@@ -29,7 +29,8 @@ final class Menu_Icons_Icomoon {
 	 * Load plugin
 	 *
 	 * @since   0.1.0
-	 * @wp_hook action plugins_loaded/99
+	 * @since   0.2.0 Register to Icon Picker instead.
+	 * @wp_hook action plugins_loaded
 	 */
 	public static function _load() {
 		load_plugin_textdomain( 'menu-icons-icomoon', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
@@ -40,6 +41,7 @@ final class Menu_Icons_Icomoon {
 		}
 
 		add_filter( 'menu_icons_types', array( __CLASS__, '_register' ) );
+		add_action( 'icon_picker_types_registry_init', array( __CLASS__, '_register_to_ip' ) );
 	}
 
 
@@ -62,12 +64,31 @@ final class Menu_Icons_Icomoon {
 
 
 	/**
+	 * Register type to Icon Picker
+	 *
+	 * @since   0.2.0
+	 * @wp_hook action                      icon_picker_types_registry_init
+	 * @param   Icon_Picker_Types_Registry  $ip_registry                     Icon_Picker_Types_Registry instance.
+	 */
+	public static function _register_to_ip( Icon_Picker_Types_Registry $ip_registry ) {
+		require_once Icon_Picker::instance()->dir . '/includes/types/font.php';
+		require_once dirname( __FILE__ ) . '/icomoon-ip.php';
+
+		$ip_registry->add( new Icon_Picker_Type_Icomoon() );
+	}
+
+
+	/**
 	 * Register type
 	 *
 	 * @since   0.1.0
 	 * @wp_hook filter menu_icons_types
 	 */
 	public static function _register( $icon_types ) {
+		if ( class_exists( 'Icon_Picker_Type_Font' ) ) {
+			return $icon_types;
+		}
+
 		require_once dirname( __FILE__ ) . '/icomoon.php';
 
 		$instance = new Menu_Icons_Type_Icomoon(
@@ -84,4 +105,4 @@ final class Menu_Icons_Icomoon {
 		return $icon_types;
 	}
 }
-add_action( 'plugins_loaded', array( 'Menu_Icons_Icomoon', '_load' ), 99 );
+add_action( 'plugins_loaded', array( 'Menu_Icons_Icomoon', '_load' ) );
