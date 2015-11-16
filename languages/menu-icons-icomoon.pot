@@ -1,1019 +1,1051 @@
-# Copyright (C) 2014 Menu Icons: Icomoon
+# Copyright (C) 2015 Menu Icons: Icomoon
 # This file is distributed under the same license as the Menu Icons: Icomoon package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Menu Icons: Icomoon 0.1.1\n"
-"Report-Msgid-Bugs-To: http://wordpress.org/tag/menu-icons-icomoon\n"
-"POT-Creation-Date: 2014-06-11 14:51:34+00:00\n"
+"Project-Id-Version: Menu Icons: Icomoon 0.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/menu-icons-"
+"icomoon\n"
+"POT-Creation-Date: 2015-11-16 13:18:18+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
-#: icomoon.php:68
+#: icomoon-ip.php:64 icomoon.php:68
 msgid "Actions"
 msgstr ""
 
-#: icomoon.php:70
+#: icomoon-ip.php:68 icomoon.php:118
+msgid "Arrows"
+msgstr ""
+
+#: icomoon-ip.php:72 icomoon.php:148
+msgid "Brands"
+msgstr ""
+
+#: icomoon-ip.php:76 icomoon.php:232
+msgid "Browsers"
+msgstr ""
+
+#: icomoon-ip.php:80 icomoon.php:243
+msgid "Devices"
+msgstr ""
+
+#: icomoon-ip.php:84 icomoon.php:273
+msgid "Editor"
+msgstr ""
+
+#: icomoon-ip.php:88 icomoon.php:322
+msgid "File Types"
+msgstr ""
+
+#: icomoon-ip.php:92 icomoon.php:347
+msgid "Form"
+msgstr ""
+
+#: icomoon-ip.php:96 icomoon.php:357
+msgid "Games"
+msgstr ""
+
+#: icomoon-ip.php:100 icomoon.php:372
+msgid "Media Player"
+msgstr ""
+
+#: icomoon-ip.php:104 icomoon.php:404
+msgid "Misc."
+msgstr ""
+
+#: icomoon-ip.php:108 icomoon.php:529
+msgid "Places"
+msgstr ""
+
+#: icomoon-ip.php:112 icomoon.php:554
+msgid "Smileys"
+msgstr ""
+
+#: icomoon-ip.php:139 icomoon.php:70
 msgid "Add"
 msgstr ""
 
-#: icomoon.php:71
+#: icomoon-ip.php:144 icomoon.php:71
 msgid "Remove"
 msgstr ""
 
-#: icomoon.php:72 icomoon.php:73 icomoon.php:74
+#: icomoon-ip.php:149 icomoon-ip.php:154 icomoon-ip.php:159 icomoon.php:72
+#: icomoon.php:73 icomoon.php:74
 msgid "Check"
 msgstr ""
 
-#: icomoon.php:75 icomoon.php:76
+#: icomoon-ip.php:164 icomoon-ip.php:169 icomoon.php:75 icomoon.php:76
 msgid "Close"
 msgstr ""
 
+#: icomoon-ip.php:174 icomoon-ip.php:179 icomoon-ip.php:184 icomoon-ip.php:189
 #: icomoon.php:77 icomoon.php:78 icomoon.php:79 icomoon.php:80
 msgid "Download"
 msgstr ""
 
-#: icomoon.php:81
+#: icomoon-ip.php:194 icomoon.php:81
 msgid "Cloud Download"
 msgstr ""
 
+#: icomoon-ip.php:199 icomoon-ip.php:204 icomoon-ip.php:209 icomoon-ip.php:214
 #: icomoon.php:82 icomoon.php:83 icomoon.php:84 icomoon.php:85
 msgid "Upload"
 msgstr ""
 
-#: icomoon.php:86
+#: icomoon-ip.php:219 icomoon.php:86
 msgid "Cloud Upload"
 msgstr ""
 
-#: icomoon.php:87 icomoon.php:89
+#: icomoon-ip.php:224 icomoon-ip.php:234 icomoon.php:87 icomoon.php:89
 msgid "Contract"
 msgstr ""
 
-#: icomoon.php:88 icomoon.php:90
+#: icomoon-ip.php:229 icomoon-ip.php:239 icomoon.php:88 icomoon.php:90
 msgid "Expand"
 msgstr ""
 
-#: icomoon.php:91
+#: icomoon-ip.php:244 icomoon.php:91
 msgid "Enter"
 msgstr ""
 
-#: icomoon.php:92
+#: icomoon-ip.php:249 icomoon.php:92
 msgid "Exit"
 msgstr ""
 
-#: icomoon.php:93 icomoon.php:94
+#: icomoon-ip.php:254 icomoon-ip.php:259 icomoon.php:93 icomoon.php:94
 msgid "Filter"
 msgstr ""
 
-#: icomoon.php:95 icomoon.php:96
+#: icomoon-ip.php:264 icomoon-ip.php:269 icomoon.php:95 icomoon.php:96
 msgid "Lock"
 msgstr ""
 
-#: icomoon.php:97
+#: icomoon-ip.php:274 icomoon.php:97
 msgid "Unlock"
 msgstr ""
 
-#: icomoon.php:98
+#: icomoon-ip.php:279 icomoon.php:98
 msgid "New Tab"
 msgstr ""
 
-#: icomoon.php:99
+#: icomoon-ip.php:284 icomoon.php:99
 msgid "Block"
 msgstr ""
 
-#: icomoon.php:100
+#: icomoon-ip.php:289 icomoon.php:100
 msgid "Back"
 msgstr ""
 
-#: icomoon.php:101
+#: icomoon-ip.php:294 icomoon.php:101
 msgid "Forward"
 msgstr ""
 
-#: icomoon.php:102
+#: icomoon-ip.php:299 icomoon.php:102
 msgid "Spam"
 msgstr ""
 
-#: icomoon.php:103
+#: icomoon-ip.php:304 icomoon.php:103
 msgid "Point Up"
 msgstr ""
 
-#: icomoon.php:104
+#: icomoon-ip.php:309 icomoon.php:104
 msgid "Point Down"
 msgstr ""
 
-#: icomoon.php:105
+#: icomoon-ip.php:314 icomoon.php:105
 msgid "Point Left"
 msgstr ""
 
-#: icomoon.php:106
+#: icomoon-ip.php:319 icomoon.php:106
 msgid "Point Right"
 msgstr ""
 
-#: icomoon.php:107
+#: icomoon-ip.php:324 icomoon.php:107
 msgid "Search"
 msgstr ""
 
-#: icomoon.php:108
+#: icomoon-ip.php:329 icomoon.php:108
 msgid "Zoom In"
 msgstr ""
 
-#: icomoon.php:109
+#: icomoon-ip.php:334 icomoon.php:109
 msgid "Zoom Out"
 msgstr ""
 
-#: icomoon.php:110
+#: icomoon-ip.php:339 icomoon.php:110
 msgid "Sign Up"
 msgstr ""
 
-#: icomoon.php:111
+#: icomoon-ip.php:344 icomoon.php:111
 msgid "Thumbs Up"
 msgstr ""
 
-#: icomoon.php:112
+#: icomoon-ip.php:349 icomoon.php:112
 msgid "Thumbs Down"
 msgstr ""
 
-#: icomoon.php:113
+#: icomoon-ip.php:354 icomoon.php:113
 msgid "Share"
 msgstr ""
 
-#: icomoon.php:118
-msgid "Arrows"
-msgstr ""
-
-#: icomoon.php:120 icomoon.php:128 icomoon.php:136
+#: icomoon-ip.php:359 icomoon-ip.php:399 icomoon-ip.php:439 icomoon.php:120
+#: icomoon.php:128 icomoon.php:136
 msgid "Up"
 msgstr ""
 
-#: icomoon.php:121 icomoon.php:129 icomoon.php:137
+#: icomoon-ip.php:364 icomoon-ip.php:404 icomoon-ip.php:444 icomoon.php:121
+#: icomoon.php:129 icomoon.php:137
 msgid "Down"
 msgstr ""
 
-#: icomoon.php:122 icomoon.php:130 icomoon.php:138
+#: icomoon-ip.php:369 icomoon-ip.php:409 icomoon-ip.php:449 icomoon.php:122
+#: icomoon.php:130 icomoon.php:138
 msgid "Left"
 msgstr ""
 
-#: icomoon.php:123 icomoon.php:131 icomoon.php:139
+#: icomoon-ip.php:374 icomoon-ip.php:414 icomoon-ip.php:454 icomoon.php:123
+#: icomoon.php:131 icomoon.php:139
 msgid "Right"
 msgstr ""
 
-#: icomoon.php:124 icomoon.php:132 icomoon.php:140
+#: icomoon-ip.php:379 icomoon-ip.php:419 icomoon-ip.php:459 icomoon.php:124
+#: icomoon.php:132 icomoon.php:140
 msgid "Up Left"
 msgstr ""
 
-#: icomoon.php:125 icomoon.php:133 icomoon.php:141
+#: icomoon-ip.php:384 icomoon-ip.php:424 icomoon-ip.php:464 icomoon.php:125
+#: icomoon.php:133 icomoon.php:141
 msgid "Up Right"
 msgstr ""
 
-#: icomoon.php:126 icomoon.php:134 icomoon.php:142
+#: icomoon-ip.php:389 icomoon-ip.php:429 icomoon-ip.php:469 icomoon.php:126
+#: icomoon.php:134 icomoon.php:142
 msgid "Down Left"
 msgstr ""
 
-#: icomoon.php:127 icomoon.php:135 icomoon.php:143
+#: icomoon-ip.php:394 icomoon-ip.php:434 icomoon-ip.php:474 icomoon.php:127
+#: icomoon.php:135 icomoon.php:143
 msgid "Down Right"
 msgstr ""
 
-#: icomoon.php:148
-msgid "Brands"
-msgstr ""
-
-#: icomoon.php:154
+#: icomoon-ip.php:499 icomoon.php:154
 msgid "CSS 3"
 msgstr ""
 
-#: icomoon.php:164
+#: icomoon-ip.php:549 icomoon.php:164
 msgid "Finder"
 msgstr ""
 
-#: icomoon.php:185 icomoon.php:186
+#: icomoon-ip.php:654 icomoon-ip.php:659 icomoon.php:185 icomoon.php:186
 msgid "HMTL 5"
 msgstr ""
 
-#: icomoon.php:232
-msgid "Browsers"
-msgstr ""
-
-#: icomoon.php:243
-msgid "Devices"
-msgstr ""
-
-#: icomoon.php:245 icomoon.php:246
+#: icomoon-ip.php:894 icomoon-ip.php:899 icomoon.php:245 icomoon.php:246
 msgid "Alarm"
 msgstr ""
 
-#: icomoon.php:247
+#: icomoon-ip.php:904 icomoon.php:247
 msgid "Bell"
 msgstr ""
 
-#: icomoon.php:248
+#: icomoon-ip.php:909 icomoon.php:248
 msgid "Binoculars"
 msgstr ""
 
-#: icomoon.php:249
+#: icomoon-ip.php:914 icomoon.php:249
 msgid "Bullhorn"
 msgstr ""
 
-#: icomoon.php:250 icomoon.php:251
+#: icomoon-ip.php:919 icomoon-ip.php:924 icomoon.php:250 icomoon.php:251
 msgid "Camera"
 msgstr ""
 
-#: icomoon.php:252 icomoon.php:253
+#: icomoon-ip.php:929 icomoon-ip.php:934 icomoon.php:252 icomoon.php:253
 msgid "Clock"
 msgstr ""
 
-#: icomoon.php:254
+#: icomoon-ip.php:939 icomoon.php:254
 msgid "Compass"
 msgstr ""
 
-#: icomoon.php:255
+#: icomoon-ip.php:944 icomoon.php:255
 msgid "Disk"
 msgstr ""
 
-#: icomoon.php:256
+#: icomoon-ip.php:949 icomoon.php:256
 msgid "HDD"
 msgstr ""
 
-#: icomoon.php:257
+#: icomoon-ip.php:954 icomoon.php:257
 msgid "Headphones"
 msgstr ""
 
-#: icomoon.php:258
+#: icomoon-ip.php:959 icomoon.php:258
 msgid "Keyboard"
 msgstr ""
 
-#: icomoon.php:259
+#: icomoon-ip.php:964 icomoon.php:259
 msgid "Laptop"
 msgstr ""
 
-#: icomoon.php:260 icomoon.php:261
+#: icomoon-ip.php:969 icomoon-ip.php:974 icomoon.php:260 icomoon.php:261
 msgid "Mobile Phone"
 msgstr ""
 
-#: icomoon.php:262 icomoon.php:263
+#: icomoon-ip.php:979 icomoon-ip.php:984 icomoon.php:262 icomoon.php:263
 msgid "Phone"
 msgstr ""
 
-#: icomoon.php:264
+#: icomoon-ip.php:989 icomoon.php:264
 msgid "Printer"
 msgstr ""
 
-#: icomoon.php:265
+#: icomoon-ip.php:994 icomoon.php:265
 msgid "Screen"
 msgstr ""
 
-#: icomoon.php:266
+#: icomoon-ip.php:999 icomoon.php:266
 msgid "Stopwatch"
 msgstr ""
 
-#: icomoon.php:267
+#: icomoon-ip.php:1004 icomoon.php:267
 msgid "Tablet"
 msgstr ""
 
-#: icomoon.php:268
+#: icomoon-ip.php:1009 icomoon.php:268
 msgid "TV"
 msgstr ""
 
-#: icomoon.php:273
-msgid "Editor"
-msgstr ""
-
-#: icomoon.php:275
+#: icomoon-ip.php:1014 icomoon.php:275
 msgid "Attachment"
 msgstr ""
 
-#: icomoon.php:276 icomoon.php:277 icomoon.php:278
+#: icomoon-ip.php:1019 icomoon-ip.php:1024 icomoon-ip.php:1029 icomoon.php:276
+#: icomoon.php:277 icomoon.php:278
 msgid "Copy"
 msgstr ""
 
-#: icomoon.php:279
+#: icomoon-ip.php:1034 icomoon.php:279
 msgid "Cut"
 msgstr ""
 
-#: icomoon.php:280 icomoon.php:281 icomoon.php:282
+#: icomoon-ip.php:1039 icomoon-ip.php:1044 icomoon-ip.php:1049 icomoon.php:280
+#: icomoon.php:281 icomoon.php:282
 msgid "Paste"
 msgstr ""
 
-#: icomoon.php:283
+#: icomoon-ip.php:1054 icomoon.php:283
 msgid "Font"
 msgstr ""
 
-#: icomoon.php:284
+#: icomoon-ip.php:1059 icomoon.php:284
 msgid "Bold"
 msgstr ""
 
-#: icomoon.php:285
+#: icomoon-ip.php:1064 icomoon.php:285
 msgid "Italic"
 msgstr ""
 
-#: icomoon.php:286
+#: icomoon-ip.php:1069 icomoon.php:286
 msgid "Underline"
 msgstr ""
 
-#: icomoon.php:287
+#: icomoon-ip.php:1074 icomoon.php:287
 msgid "Strikethrough"
 msgstr ""
 
-#: icomoon.php:288
+#: icomoon-ip.php:1079 icomoon.php:288
 msgid "Code"
 msgstr ""
 
-#: icomoon.php:289
+#: icomoon-ip.php:1084 icomoon.php:289
 msgid "Embed"
 msgstr ""
 
-#: icomoon.php:290 icomoon.php:294
+#: icomoon-ip.php:1089 icomoon-ip.php:1109 icomoon.php:290 icomoon.php:294
 msgid "Align Left"
 msgstr ""
 
-#: icomoon.php:291 icomoon.php:295
+#: icomoon-ip.php:1094 icomoon-ip.php:1114 icomoon.php:291 icomoon.php:295
 msgid "Align Center"
 msgstr ""
 
-#: icomoon.php:292 icomoon.php:296
+#: icomoon-ip.php:1099 icomoon-ip.php:1119 icomoon.php:292 icomoon.php:296
 msgid "Align Right"
 msgstr ""
 
-#: icomoon.php:293 icomoon.php:297
+#: icomoon-ip.php:1104 icomoon-ip.php:1124 icomoon.php:293 icomoon.php:297
 msgid "Justify"
 msgstr ""
 
-#: icomoon.php:298 icomoon.php:300
+#: icomoon-ip.php:1129 icomoon-ip.php:1139 icomoon.php:298 icomoon.php:300
 msgid "Undo"
 msgstr ""
 
-#: icomoon.php:299 icomoon.php:301
+#: icomoon-ip.php:1134 icomoon-ip.php:1144 icomoon.php:299 icomoon.php:301
 msgid "Redo"
 msgstr ""
 
-#: icomoon.php:302
+#: icomoon-ip.php:1149 icomoon.php:302
 msgid "Left Qoutes"
 msgstr ""
 
-#: icomoon.php:303 icomoon.php:304
+#: icomoon-ip.php:1154 icomoon-ip.php:1159 icomoon.php:303 icomoon.php:304
 msgid "List"
 msgstr ""
 
-#: icomoon.php:305
+#: icomoon-ip.php:1164 icomoon.php:305
 msgid "Ordered List"
 msgstr ""
 
-#: icomoon.php:306
+#: icomoon-ip.php:1169 icomoon.php:306
 msgid "Link"
 msgstr ""
 
-#: icomoon.php:307
+#: icomoon-ip.php:1174 icomoon.php:307
 msgid "Crop"
 msgstr ""
 
-#: icomoon.php:308
+#: icomoon-ip.php:1179 icomoon.php:308
 msgid "Increase Indent"
 msgstr ""
 
-#: icomoon.php:309
+#: icomoon-ip.php:1184 icomoon.php:309
 msgid "Decrease Indent"
 msgstr ""
 
-#: icomoon.php:310
+#: icomoon-ip.php:1189 icomoon.php:310
 msgid "Pilcrow"
 msgstr ""
 
-#: icomoon.php:311
+#: icomoon-ip.php:1194 icomoon.php:311
 msgid "Left to Right"
 msgstr ""
 
-#: icomoon.php:312
+#: icomoon-ip.php:1199 icomoon.php:312
 msgid "Right to Left"
 msgstr ""
 
-#: icomoon.php:313
+#: icomoon-ip.php:1204 icomoon.php:313
 msgid "Omega"
 msgstr ""
 
-#: icomoon.php:314
+#: icomoon-ip.php:1209 icomoon.php:314
 msgid "Sigma"
 msgstr ""
 
-#: icomoon.php:315 icomoon.php:316
+#: icomoon-ip.php:1214 icomoon-ip.php:1219 icomoon.php:315 icomoon.php:316
 msgid "Table"
 msgstr ""
 
-#: icomoon.php:317
+#: icomoon-ip.php:1224 icomoon.php:317
 msgid "Insert Template"
 msgstr ""
 
-#: icomoon.php:322
-msgid "File Types"
-msgstr ""
-
-#: icomoon.php:324 icomoon.php:325 icomoon.php:326 icomoon.php:327
+#: icomoon-ip.php:1229 icomoon-ip.php:1234 icomoon-ip.php:1239
+#: icomoon-ip.php:1244 icomoon.php:324 icomoon.php:325 icomoon.php:326
+#: icomoon.php:327
 msgid "File"
 msgstr ""
 
-#: icomoon.php:328
+#: icomoon-ip.php:1249 icomoon.php:328
 msgid "Film"
 msgstr ""
 
-#: icomoon.php:329 icomoon.php:330
+#: icomoon-ip.php:1254 icomoon-ip.php:1259 icomoon.php:329 icomoon.php:330
 msgid "Folder"
 msgstr ""
 
-#: icomoon.php:331 icomoon.php:332
+#: icomoon-ip.php:1264 icomoon-ip.php:1269 icomoon.php:331 icomoon.php:332
 msgid "Image"
 msgstr ""
 
-#: icomoon.php:333
+#: icomoon-ip.php:1274 icomoon.php:333
 msgid "Music"
 msgstr ""
 
-#: icomoon.php:334
+#: icomoon-ip.php:1279 icomoon.php:334
 msgid "PDF"
 msgstr ""
 
-#: icomoon.php:340
+#: icomoon-ip.php:1309 icomoon.php:340
 msgid "CSS"
 msgstr ""
 
-#: icomoon.php:341
+#: icomoon-ip.php:1314 icomoon.php:341
 msgid "XML"
 msgstr ""
 
-#: icomoon.php:347
-msgid "Form"
-msgstr ""
-
-#: icomoon.php:349 icomoon.php:351
+#: icomoon-ip.php:1324 icomoon-ip.php:1334 icomoon.php:349 icomoon.php:351
 msgid "Checked"
 msgstr ""
 
-#: icomoon.php:350 icomoon.php:352
+#: icomoon-ip.php:1329 icomoon-ip.php:1339 icomoon.php:350 icomoon.php:352
 msgid "Unchecked"
 msgstr ""
 
-#: icomoon.php:357
-msgid "Games"
-msgstr ""
-
-#: icomoon.php:359
+#: icomoon-ip.php:1344 icomoon.php:359
 msgid "Dice"
 msgstr ""
 
-#: icomoon.php:360
+#: icomoon-ip.php:1349 icomoon.php:360
 msgid "Pacman"
 msgstr ""
 
-#: icomoon.php:361
+#: icomoon-ip.php:1354 icomoon.php:361
 msgid "Pawn"
 msgstr ""
 
-#: icomoon.php:362
+#: icomoon-ip.php:1359 icomoon.php:362
 msgid "Spades"
 msgstr ""
 
-#: icomoon.php:363
+#: icomoon-ip.php:1364 icomoon.php:363
 msgid "Diamonds"
 msgstr ""
 
-#: icomoon.php:364
+#: icomoon-ip.php:1369 icomoon.php:364
 msgid "Clubs"
 msgstr ""
 
-#: icomoon.php:365 icomoon.php:366 icomoon.php:367
+#: icomoon-ip.php:1374 icomoon-ip.php:1379 icomoon-ip.php:1384 icomoon.php:365
+#: icomoon.php:366 icomoon.php:367
 msgid "Heart"
 msgstr ""
 
-#: icomoon.php:372
-msgid "Media Player"
-msgstr ""
-
-#: icomoon.php:374
+#: icomoon-ip.php:1389 icomoon.php:374
 msgid "First"
 msgstr ""
 
-#: icomoon.php:375
+#: icomoon-ip.php:1394 icomoon.php:375
 msgid "Previous"
 msgstr ""
 
-#: icomoon.php:376 icomoon.php:384
+#: icomoon-ip.php:1399 icomoon-ip.php:1439 icomoon.php:376 icomoon.php:384
 msgid "Fast Backward"
 msgstr ""
 
-#: icomoon.php:377 icomoon.php:385 icomoon.php:388
+#: icomoon-ip.php:1404 icomoon-ip.php:1444 icomoon-ip.php:1459 icomoon.php:377
+#: icomoon.php:385 icomoon.php:388
 msgid "Play"
 msgstr ""
 
-#: icomoon.php:378 icomoon.php:386
+#: icomoon-ip.php:1409 icomoon-ip.php:1449 icomoon.php:378 icomoon.php:386
 msgid "Pause"
 msgstr ""
 
-#: icomoon.php:379 icomoon.php:387
+#: icomoon-ip.php:1414 icomoon-ip.php:1454 icomoon.php:379 icomoon.php:387
 msgid "Stop"
 msgstr ""
 
-#: icomoon.php:380 icomoon.php:383
+#: icomoon-ip.php:1419 icomoon-ip.php:1434 icomoon.php:380 icomoon.php:383
 msgid "Fast Forward"
 msgstr ""
 
-#: icomoon.php:381
+#: icomoon-ip.php:1424 icomoon.php:381
 msgid "Next"
 msgstr ""
 
-#: icomoon.php:382
+#: icomoon-ip.php:1429 icomoon.php:382
 msgid "Last"
 msgstr ""
 
-#: icomoon.php:389
+#: icomoon-ip.php:1464 icomoon.php:389
 msgid "Eject"
 msgstr ""
 
-#: icomoon.php:390
+#: icomoon-ip.php:1469 icomoon.php:390
 msgid "Vol. High"
 msgstr ""
 
-#: icomoon.php:391
+#: icomoon-ip.php:1474 icomoon.php:391
 msgid "Vol. Medium"
 msgstr ""
 
-#: icomoon.php:392
+#: icomoon-ip.php:1479 icomoon.php:392
 msgid "Vol. Low"
 msgstr ""
 
-#: icomoon.php:393
+#: icomoon-ip.php:1484 icomoon.php:393
 msgid "Vol. Up"
 msgstr ""
 
-#: icomoon.php:394
+#: icomoon-ip.php:1489 icomoon.php:394
 msgid "Vol. Down"
 msgstr ""
 
-#: icomoon.php:395 icomoon.php:396
+#: icomoon-ip.php:1494 icomoon-ip.php:1499 icomoon.php:395 icomoon.php:396
 msgid "Mute"
 msgstr ""
 
-#: icomoon.php:397 icomoon.php:398
+#: icomoon-ip.php:1504 icomoon-ip.php:1509 icomoon.php:397 icomoon.php:398
 msgid "Loop"
 msgstr ""
 
-#: icomoon.php:399
+#: icomoon-ip.php:1514 icomoon.php:399
 msgid "Shuffle"
 msgstr ""
 
-#: icomoon.php:404
-msgid "Misc."
-msgstr ""
-
-#: icomoon.php:406
+#: icomoon-ip.php:1519 icomoon.php:406
 msgid "Accessibility"
 msgstr ""
 
-#: icomoon.php:407
+#: icomoon-ip.php:1524 icomoon.php:407
 msgid "Address Book"
 msgstr ""
 
-#: icomoon.php:408
+#: icomoon-ip.php:1529 icomoon.php:408
 msgid "Aid"
 msgstr ""
 
-#: icomoon.php:409
+#: icomoon-ip.php:1534 icomoon.php:409
 msgid "Airplane"
 msgstr ""
 
-#: icomoon.php:410
+#: icomoon-ip.php:1539 icomoon.php:410
 msgid "Barcode"
 msgstr ""
 
-#: icomoon.php:411 icomoon.php:412
+#: icomoon-ip.php:1544 icomoon-ip.php:1549 icomoon.php:411 icomoon.php:412
 msgid "Bars"
 msgstr ""
 
-#: icomoon.php:413
+#: icomoon-ip.php:1554 icomoon.php:413
 msgid "Book"
 msgstr ""
 
-#: icomoon.php:414
+#: icomoon-ip.php:1559 icomoon.php:414
 msgid "Books"
 msgstr ""
 
-#: icomoon.php:415
+#: icomoon-ip.php:1564 icomoon.php:415
 msgid "Bookmark"
 msgstr ""
 
-#: icomoon.php:416
+#: icomoon-ip.php:1569 icomoon.php:416
 msgid "Bookmarks"
 msgstr ""
 
-#: icomoon.php:417
+#: icomoon-ip.php:1574 icomoon.php:417
 msgid "Briefcase"
 msgstr ""
 
-#: icomoon.php:418
+#: icomoon-ip.php:1579 icomoon.php:418
 msgid "Brightness"
 msgstr ""
 
-#: icomoon.php:419
+#: icomoon-ip.php:1584 icomoon.php:419
 msgid "Brightness/Contrast"
 msgstr ""
 
-#: icomoon.php:420 icomoon.php:421
+#: icomoon-ip.php:1589 icomoon-ip.php:1594 icomoon.php:420 icomoon.php:421
 msgid "Bubble"
 msgstr ""
 
-#: icomoon.php:422 icomoon.php:423 icomoon.php:424 icomoon.php:425
+#: icomoon-ip.php:1599 icomoon-ip.php:1604 icomoon-ip.php:1609
+#: icomoon-ip.php:1614 icomoon.php:422 icomoon.php:423 icomoon.php:424
+#: icomoon.php:425
 msgid "Bubbles"
 msgstr ""
 
-#: icomoon.php:426
+#: icomoon-ip.php:1619 icomoon.php:426
 msgid "Bug"
 msgstr ""
 
-#: icomoon.php:427
+#: icomoon-ip.php:1624 icomoon.php:427
 msgid "Busy"
 msgstr ""
 
-#: icomoon.php:428
+#: icomoon-ip.php:1629 icomoon.php:428
 msgid "Cabinet"
 msgstr ""
 
-#: icomoon.php:429
+#: icomoon-ip.php:1634 icomoon.php:429
 msgid "Calculate"
 msgstr ""
 
-#: icomoon.php:430 icomoon.php:431
+#: icomoon-ip.php:1639 icomoon-ip.php:1644 icomoon.php:430 icomoon.php:431
 msgid "Calendar"
 msgstr ""
 
-#: icomoon.php:432 icomoon.php:433 icomoon.php:434
+#: icomoon-ip.php:1649 icomoon-ip.php:1654 icomoon-ip.php:1659 icomoon.php:432
+#: icomoon.php:433 icomoon.php:434
 msgid "Cart"
 msgstr ""
 
-#: icomoon.php:435 icomoon.php:436
+#: icomoon-ip.php:1664 icomoon-ip.php:1669 icomoon.php:435 icomoon.php:436
 msgid "Cog"
 msgstr ""
 
-#: icomoon.php:437
+#: icomoon-ip.php:1674 icomoon.php:437
 msgid "Cogs"
 msgstr ""
 
-#: icomoon.php:438
+#: icomoon-ip.php:1679 icomoon.php:438
 msgid "Coin"
 msgstr ""
 
-#: icomoon.php:439
+#: icomoon-ip.php:1684 icomoon.php:439
 msgid "Connection"
 msgstr ""
 
-#: icomoon.php:440
+#: icomoon-ip.php:1689 icomoon.php:440
 msgid "Contrast"
 msgstr ""
 
-#: icomoon.php:441
+#: icomoon-ip.php:1694 icomoon.php:441
 msgid "Credit"
 msgstr ""
 
-#: icomoon.php:442 icomoon.php:443 icomoon.php:444
+#: icomoon-ip.php:1699 icomoon-ip.php:1704 icomoon-ip.php:1709 icomoon.php:442
+#: icomoon.php:443 icomoon.php:444
 msgid "Drawer"
 msgstr ""
 
-#: icomoon.php:445
+#: icomoon-ip.php:1714 icomoon.php:445
 msgid "Droplet"
 msgstr ""
 
-#: icomoon.php:446
+#: icomoon-ip.php:1719 icomoon.php:446
 msgid "Earth"
 msgstr ""
 
-#: icomoon.php:447
+#: icomoon-ip.php:1724 icomoon.php:447
 msgid "Envelope"
 msgstr ""
 
-#: icomoon.php:448
+#: icomoon-ip.php:1729 icomoon.php:448
 msgid "Equalizer"
 msgstr ""
 
-#: icomoon.php:449 icomoon.php:450
+#: icomoon-ip.php:1734 icomoon-ip.php:1739 icomoon.php:449 icomoon.php:450
 msgid "Eye"
 msgstr ""
 
-#: icomoon.php:451
+#: icomoon-ip.php:1744 icomoon.php:451
 msgid "Fire"
 msgstr ""
 
-#: icomoon.php:452
+#: icomoon-ip.php:1749 icomoon.php:452
 msgid "Flag"
 msgstr ""
 
-#: icomoon.php:453
+#: icomoon-ip.php:1754 icomoon.php:453
 msgid "Food"
 msgstr ""
 
-#: icomoon.php:454
+#: icomoon-ip.php:1759 icomoon.php:454
 msgid "Gift"
 msgstr ""
 
-#: icomoon.php:455
+#: icomoon-ip.php:1764 icomoon.php:455
 msgid "Glass"
 msgstr ""
 
-#: icomoon.php:456
+#: icomoon-ip.php:1769 icomoon.php:456
 msgid "Globe"
 msgstr ""
 
-#: icomoon.php:457 icomoon.php:458
+#: icomoon-ip.php:1774 icomoon-ip.php:1779 icomoon.php:457 icomoon.php:458
 msgid "Hammer"
 msgstr ""
 
-#: icomoon.php:459
+#: icomoon-ip.php:1784 icomoon.php:459
 msgid "History"
 msgstr ""
 
-#: icomoon.php:460 icomoon.php:461
+#: icomoon-ip.php:1789 icomoon-ip.php:1794 icomoon.php:460 icomoon.php:461
 msgid "Info"
 msgstr ""
 
-#: icomoon.php:462 icomoon.php:463
+#: icomoon-ip.php:1799 icomoon-ip.php:1804 icomoon.php:462 icomoon.php:463
 msgid "Key"
 msgstr ""
 
-#: icomoon.php:464
+#: icomoon-ip.php:1809 icomoon.php:464
 msgid "Leaf"
 msgstr ""
 
-#: icomoon.php:465
+#: icomoon-ip.php:1814 icomoon.php:465
 msgid "Lightning"
 msgstr ""
 
-#: icomoon.php:466
+#: icomoon-ip.php:1819 icomoon.php:466
 msgid "Magnet"
 msgstr ""
 
-#: icomoon.php:467 icomoon.php:468 icomoon.php:469 icomoon.php:470
+#: icomoon-ip.php:1824 icomoon-ip.php:1829 icomoon-ip.php:1834
+#: icomoon-ip.php:1839 icomoon.php:467 icomoon.php:468 icomoon.php:469
+#: icomoon.php:470
 msgid "Mail"
 msgstr ""
 
-#: icomoon.php:471 icomoon.php:472
+#: icomoon-ip.php:1844 icomoon-ip.php:1849 icomoon.php:471 icomoon.php:472
 msgid "Map"
 msgstr ""
 
-#: icomoon.php:473 icomoon.php:474
+#: icomoon-ip.php:1854 icomoon-ip.php:1859 icomoon.php:473 icomoon.php:474
 msgid "Menu"
 msgstr ""
 
-#: icomoon.php:475 icomoon.php:476
+#: icomoon-ip.php:1864 icomoon-ip.php:1869 icomoon.php:475 icomoon.php:476
 msgid "Meter"
 msgstr ""
 
-#: icomoon.php:477
+#: icomoon-ip.php:1874 icomoon.php:477
 msgid "Mug"
 msgstr ""
 
-#: icomoon.php:478
+#: icomoon-ip.php:1879 icomoon.php:478
 msgid "Newspaper"
 msgstr ""
 
-#: icomoon.php:479
+#: icomoon-ip.php:1884 icomoon.php:479
 msgid "Notebook"
 msgstr ""
 
-#: icomoon.php:480
+#: icomoon-ip.php:1889 icomoon.php:480
 msgid "Notification"
 msgstr ""
 
-#: icomoon.php:481
+#: icomoon-ip.php:1894 icomoon.php:481
 msgid "Paint Format"
 msgstr ""
 
-#: icomoon.php:482
+#: icomoon-ip.php:1899 icomoon.php:482
 msgid "Pen"
 msgstr ""
 
-#: icomoon.php:483 icomoon.php:484
+#: icomoon-ip.php:1904 icomoon-ip.php:1909 icomoon.php:483 icomoon.php:484
 msgid "Pencil"
 msgstr ""
 
-#: icomoon.php:485
+#: icomoon-ip.php:1914 icomoon.php:485
 msgid "Pie"
 msgstr ""
 
-#: icomoon.php:486
+#: icomoon-ip.php:1919 icomoon.php:486
 msgid "Podcast"
 msgstr ""
 
-#: icomoon.php:487
+#: icomoon-ip.php:1924 icomoon.php:487
 msgid "Power Cord"
 msgstr ""
 
-#: icomoon.php:488
+#: icomoon-ip.php:1929 icomoon.php:488
 msgid "Profile"
 msgstr ""
 
-#: icomoon.php:489
+#: icomoon-ip.php:1934 icomoon.php:489
 msgid "Pushpin"
 msgstr ""
 
-#: icomoon.php:490
+#: icomoon-ip.php:1939 icomoon.php:490
 msgid "QR Code"
 msgstr ""
 
-#: icomoon.php:491
+#: icomoon-ip.php:1944 icomoon.php:491
 msgid "Question"
 msgstr ""
 
-#: icomoon.php:492
+#: icomoon-ip.php:1949 icomoon.php:492
 msgid "Quill"
 msgstr ""
 
-#: icomoon.php:493
+#: icomoon-ip.php:1954 icomoon.php:493
 msgid "Rocket"
 msgstr ""
 
-#: icomoon.php:494
+#: icomoon-ip.php:1959 icomoon.php:494
 msgid "Settings"
 msgstr ""
 
-#: icomoon.php:495
+#: icomoon-ip.php:1964 icomoon.php:495
 msgid "Shield"
 msgstr ""
 
-#: icomoon.php:496 icomoon.php:497 icomoon.php:498 icomoon.php:499
-#: icomoon.php:500 icomoon.php:501
+#: icomoon-ip.php:1969 icomoon-ip.php:1974 icomoon-ip.php:1979
+#: icomoon-ip.php:1984 icomoon-ip.php:1989 icomoon-ip.php:1994 icomoon.php:496
+#: icomoon.php:497 icomoon.php:498 icomoon.php:499 icomoon.php:500
+#: icomoon.php:501
 msgid "Spinner"
 msgstr ""
 
-#: icomoon.php:502
+#: icomoon-ip.php:1999 icomoon.php:502
 msgid "Stack"
 msgstr ""
 
-#: icomoon.php:503 icomoon.php:504 icomoon.php:505
+#: icomoon-ip.php:2004 icomoon-ip.php:2009 icomoon-ip.php:2014 icomoon.php:503
+#: icomoon.php:504 icomoon.php:505
 msgid "Star"
 msgstr ""
 
-#: icomoon.php:506
+#: icomoon-ip.php:2019 icomoon.php:506
 msgid "Stats"
 msgstr ""
 
-#: icomoon.php:507
+#: icomoon-ip.php:2024 icomoon.php:507
 msgid "Switch"
 msgstr ""
 
-#: icomoon.php:508
+#: icomoon-ip.php:2029 icomoon.php:508
 msgid "Support"
 msgstr ""
 
-#: icomoon.php:509
+#: icomoon-ip.php:2034 icomoon.php:509
 msgid "Tag"
 msgstr ""
 
-#: icomoon.php:510
+#: icomoon-ip.php:2039 icomoon.php:510
 msgid "Tags"
 msgstr ""
 
-#: icomoon.php:511
+#: icomoon-ip.php:2044 icomoon.php:511
 msgid "Target"
 msgstr ""
 
-#: icomoon.php:512
+#: icomoon-ip.php:2049 icomoon.php:512
 msgid "Ticket"
 msgstr ""
 
-#: icomoon.php:513
+#: icomoon-ip.php:2054 icomoon.php:513
 msgid "Tree"
 msgstr ""
 
-#: icomoon.php:514
+#: icomoon-ip.php:2059 icomoon.php:514
 msgid "Trophy"
 msgstr ""
 
-#: icomoon.php:515
+#: icomoon-ip.php:2064 icomoon.php:515
 msgid "Truck"
 msgstr ""
 
-#: icomoon.php:516 icomoon.php:517 icomoon.php:518 icomoon.php:519
+#: icomoon-ip.php:2069 icomoon-ip.php:2074 icomoon-ip.php:2079
+#: icomoon-ip.php:2084 icomoon.php:516 icomoon.php:517 icomoon.php:518
+#: icomoon.php:519
 msgid "User"
 msgstr ""
 
-#: icomoon.php:520 icomoon.php:521
+#: icomoon-ip.php:2089 icomoon-ip.php:2094 icomoon.php:520 icomoon.php:521
 msgid "Users"
 msgstr ""
 
-#: icomoon.php:522
+#: icomoon-ip.php:2099 icomoon.php:522
 msgid "Wand"
 msgstr ""
 
-#: icomoon.php:523
+#: icomoon-ip.php:2104 icomoon.php:523
 msgid "Warning"
 msgstr ""
 
-#: icomoon.php:524
+#: icomoon-ip.php:2109 icomoon.php:524
 msgid "Wrench"
 msgstr ""
 
-#: icomoon.php:529
-msgid "Places"
-msgstr ""
-
-#: icomoon.php:531
+#: icomoon-ip.php:2114 icomoon.php:531
 msgid "Blog"
 msgstr ""
 
-#: icomoon.php:532 icomoon.php:533
+#: icomoon-ip.php:2119 icomoon-ip.php:2124 icomoon.php:532 icomoon.php:533
 msgid "Cloud"
 msgstr ""
 
-#: icomoon.php:534
+#: icomoon-ip.php:2129 icomoon.php:534
 msgid "Dashboard"
 msgstr ""
 
-#: icomoon.php:535 icomoon.php:536 icomoon.php:537 icomoon.php:538
+#: icomoon-ip.php:2134 icomoon-ip.php:2139 icomoon-ip.php:2144
+#: icomoon-ip.php:2149 icomoon.php:535 icomoon.php:536 icomoon.php:537
+#: icomoon.php:538
 msgid "Feed"
 msgstr ""
 
-#: icomoon.php:539 icomoon.php:540 icomoon.php:541
+#: icomoon-ip.php:2154 icomoon-ip.php:2159 icomoon-ip.php:2164 icomoon.php:539
+#: icomoon.php:540 icomoon.php:541
 msgid "Home"
 msgstr ""
 
-#: icomoon.php:542
+#: icomoon-ip.php:2169 icomoon.php:542
 msgid "Office"
 msgstr ""
 
-#: icomoon.php:543
+#: icomoon-ip.php:2174 icomoon.php:543
 msgid "Lab"
 msgstr ""
 
-#: icomoon.php:544
+#: icomoon-ip.php:2179 icomoon.php:544
 msgid "Library"
 msgstr ""
 
-#: icomoon.php:545 icomoon.php:546
+#: icomoon-ip.php:2184 icomoon-ip.php:2189 icomoon.php:545 icomoon.php:546
 msgid "Location"
 msgstr ""
 
-#: icomoon.php:547 icomoon.php:548
+#: icomoon-ip.php:2194 icomoon-ip.php:2199 icomoon.php:547 icomoon.php:548
 msgid "Trash"
 msgstr ""
 
-#: icomoon.php:549
+#: icomoon-ip.php:2204 icomoon.php:549
 msgid "Road"
 msgstr ""
 
-#: icomoon.php:554
-msgid "Smileys"
-msgstr ""
-
-#: icomoon.php:556 icomoon.php:569
+#: icomoon-ip.php:2209 icomoon-ip.php:2274 icomoon.php:556 icomoon.php:569
 msgid "Angry"
 msgstr ""
 
-#: icomoon.php:557 icomoon.php:570
+#: icomoon-ip.php:2214 icomoon-ip.php:2279 icomoon.php:557 icomoon.php:570
 msgid "Cool"
 msgstr ""
 
-#: icomoon.php:558 icomoon.php:571
+#: icomoon-ip.php:2219 icomoon-ip.php:2284 icomoon.php:558 icomoon.php:571
 msgid "Confused"
 msgstr ""
 
-#: icomoon.php:559 icomoon.php:572
+#: icomoon-ip.php:2224 icomoon-ip.php:2289 icomoon.php:559 icomoon.php:572
 msgid "Evil"
 msgstr ""
 
-#: icomoon.php:560 icomoon.php:573
+#: icomoon-ip.php:2229 icomoon-ip.php:2294 icomoon.php:560 icomoon.php:573
 msgid "Happy"
 msgstr ""
 
-#: icomoon.php:561 icomoon.php:574
+#: icomoon-ip.php:2234 icomoon-ip.php:2299 icomoon.php:561 icomoon.php:574
 msgid "Grin"
 msgstr ""
 
-#: icomoon.php:562 icomoon.php:575
+#: icomoon-ip.php:2239 icomoon-ip.php:2304 icomoon.php:562 icomoon.php:575
 msgid "Neutral"
 msgstr ""
 
-#: icomoon.php:563 icomoon.php:576
+#: icomoon-ip.php:2244 icomoon-ip.php:2309 icomoon.php:563 icomoon.php:576
 msgid "Sad"
 msgstr ""
 
-#: icomoon.php:564 icomoon.php:577
+#: icomoon-ip.php:2249 icomoon-ip.php:2314 icomoon.php:564 icomoon.php:577
 msgid "Shocked"
 msgstr ""
 
-#: icomoon.php:565 icomoon.php:578
+#: icomoon-ip.php:2254 icomoon-ip.php:2319 icomoon.php:565 icomoon.php:578
 msgid "Smiley"
 msgstr ""
 
-#: icomoon.php:566 icomoon.php:579
+#: icomoon-ip.php:2259 icomoon-ip.php:2324 icomoon.php:566 icomoon.php:579
 msgid "Tongue"
 msgstr ""
 
-#: icomoon.php:567 icomoon.php:580
+#: icomoon-ip.php:2264 icomoon-ip.php:2329 icomoon.php:567 icomoon.php:580
 msgid "Wink"
 msgstr ""
 
-#: icomoon.php:568 icomoon.php:581
+#: icomoon-ip.php:2269 icomoon-ip.php:2334 icomoon.php:568 icomoon.php:581
 msgid "Wondering"
 msgstr ""
 
-#: menu-icons-icomoon.php:56
+#: menu-icons-icomoon.php:58
 msgid ""
 "Please install and activate <a href=\"%s\">Menu Icons</a> to use Icomoon."
 msgstr ""
