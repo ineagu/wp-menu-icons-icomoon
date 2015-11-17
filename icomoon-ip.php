@@ -2339,8 +2339,10 @@ class Icon_Picker_Type_Icomoon extends Icon_Picker_Type_Font {
 		 * Filter icomoon items
 		 *
 		 * @since 0.2.0
-		 * @param array $items Icon names.
+		 * @param array $items Icon items.
 		 */
 		$items = apply_filters( 'icon_picker_icomoon_items', $items );
+
+		return $items;
 	}
 }
