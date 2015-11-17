@@ -2,3 +2,5 @@
 .gitignore export-ignore
 assets export-ignore
 readme.md export-ignore
+composer.json export-ignore
+
