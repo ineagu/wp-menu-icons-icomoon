@@ -4,14 +4,14 @@
  * Menu Icons: IcoMoon
  *
  * @package Menu_Icons_Icomoon
- * @version 0.2.0
+ * @version 0.3.0
  * @author Dzikri Aziz <kvcrvt@gmail.com>
  *
  *
  * Plugin name: Menu Icons: Icomoon
  * Plugin URI: http://github.com/kucrut/wp-menu-icons-icomoon
  * Description: <a href="http://icomoon.io/">IcoMoon</a> package for <a href="http://wordpress.org/plugins/menu-icons/">Menu Icons</a>
- * Version: 0.2.0
+ * Version: 0.3.0
  * Author: Dzikri Aziz
  * Author URI: http://kucrut.org/
  * License: GPLv2

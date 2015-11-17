@@ -4,7 +4,7 @@ Donate Link: http://kucrut.org/#coffee
 Tags: menu, nav-menu, icons, navigation
 Requires at least: 4.3
 Tested up to: 4.4
-Stable tag: 0.2.0
+Stable tag: 0.3.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +39,9 @@ Originally, the icon classes are prefixed with `icon-`. I think it's too common 
 
 
 == Changelog ==
+= 0.3.0 =
+* Fix missing icons. Oops.
+
 = 0.2.0 =
 * New icon type class, inherits from Icon Picker
 

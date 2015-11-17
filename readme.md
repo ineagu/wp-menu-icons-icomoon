@@ -7,7 +7,7 @@ IcoMoon package for Menu Icons
 **Tags:** [menu](https://wordpress.org/plugins/tags/menu), [nav-menu](https://wordpress.org/plugins/tags/nav-menu), [icons](https://wordpress.org/plugins/tags/icons), [navigation](https://wordpress.org/plugins/tags/navigation)  
 **Requires at least:** 4.3  
 **Tested up to:** 4.4  
-**Stable tag:** 0.2.0  
+**Stable tag:** 0.3.0  
 **License:** [GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)  
 **Donate Link:** http://kucrut.org/#coffee  
 
@@ -40,6 +40,9 @@ The icon set included in this plugin is the [free version](http://icomoon.io/#ic
 Originally, the icon classes are prefixed with `icon-`. I think it's too common so I've changed it to `icomoon-` to avoid conflicts with other elements.
 
 ## Changelog ##
+
+### 0.3.0 ###
+* Fix missing icons. Oops.
 
 ### 0.2.0 ###
 * New icon type class, inherits from Icon Picker
